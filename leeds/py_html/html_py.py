@@ -53,7 +53,6 @@ if __name__ == "__main__":
     data = [['55', 'Female', 'Yes', 'Yes', 'No', 'Yes', 'Yes', 'Yes', 'Yes', 'Negative'],
             ['57', 'Male', 'Yes', 'Yes', 'No', 'Yes', 'No', 'No', 'No', 'Positive'],
             ['66', 'Male', 'Yes', 'Yes', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Positive'],
-            # ... (add more data if needed)
             ['60', 'Male', 'Yes', 'Yes', 'No', 'Yes', 'No', 'No', 'No', 'Positive']]
 
     attribute_counts = count_attributes(data)
